@@ -28,6 +28,9 @@ Machine learning algorithms are then applied to interpret these patterns and con
 The system architecture consists of several key components that work together to recognize air-written text. First, the input module captures real-time video using a camera. The preprocessing module then enhances the video frames by removing noise and detecting the hand region using computer vision techniques.
 
 
+![WhatsApp Image 2026-03-31 at 10 50 03 PM](https://github.com/user-attachments/assets/dc8711de-6447-4e3f-9d4a-877d0165a56d)
+
+
 # Output :
 <img width="525" height="343" alt="572040907-18242c7e-f3d6-4410-826b-7c14bd1348db" src="https://github.com/user-attachments/assets/83f790bb-40d2-4440-8c1e-3d20ced01c05" />
 
